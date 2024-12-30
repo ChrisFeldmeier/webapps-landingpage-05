@@ -8,7 +8,7 @@ A web application built with modern technologies.
 - CSS
 
 ## Live Preview
-[![App Preview](https://webapps.store/api/screenshot?url=https://webapps.store/p/232&maxage=1)](https://webapps.store/p/232)
+[![App Preview](https://webapps.store/api/screenshot?url=https://webapps.store/p/232)](https://webapps.store/p/232)
 
 ## About
 This application was generated using AI. Each version represents an iteration of the development process, with improvements and modifications based on user prompts.
