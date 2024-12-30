@@ -14,11 +14,11 @@ A web application built with modern technologies.
 This application was generated using AI. Each version represents an iteration of the development process, with improvements and modifications based on user prompts.
 
 ### Latest Update
-Version 2
-change Hello world to a sentence headline
+Version 3
+okey change "Maximize Your Cloud Potential with Intelligent Cost Management and Optimization" to Hi WebApps.store" 
 
 ## Repository Structure
 - `app.html`: Main application code
 - `versions/`: Contains all versions of the application
-  - `v2.html`: Current version
-  - `v2.json`: Metadata for current version
+  - `v3.html`: Current version
+  - `v3.json`: Metadata for current version
